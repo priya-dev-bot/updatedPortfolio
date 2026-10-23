@@ -1,6 +1,6 @@
 # Priyanka Jatoliya | Technical Product Manager Portfolio
 
-Live site: https://priya-dev-bot.github.io/MyPotfolio/
+Live site: https://priya-dev-bot.github.io/updatedPortfolio/
 
 A static portfolio (HTML, CSS, JavaScript) for a Technical Product Manager. No build step.
 
